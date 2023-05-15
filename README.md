@@ -1,2 +1,3 @@
 # tree
-tree command written in bash
+
+just the tree command written in bash that list contents of directories in a tree-like format
